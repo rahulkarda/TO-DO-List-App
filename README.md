@@ -4,9 +4,8 @@ A simple TO-DO list app where user can add their tasks and can delete only the c
 The site is live at : http://todoappbyrahul.netlify.app/
 
 <a target="_blank" href="https://todoappbyrahul.netlify.app/">
-          <img src="https://github.com/rahulkarda/TO-DO-List-App/blob/master/images/todoappbyrahul.jpg?raw=true" width="100%" alt="TO-DO List App"/>
+          <img src="https://github.com/rahulkarda/TO-DO-List-App/blob/master/images/todoapp.jpg?raw=true" width="100%" alt="TO-DO List App"/>
 </a>
-<br>
 
 ## Tech Stack
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
